@@ -3,7 +3,7 @@ import os
 from setuptools import setup
 
 
-with open(os.path.join('dash_editor_components', 'package.json')) as f:
+with open(os.path.join('dash_editor_components', 'package-info.json')) as f:
     package = json.load(f)
 
 package_name = package["name"].replace(" ", "_").replace("-", "_")
