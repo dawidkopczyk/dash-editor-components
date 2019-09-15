@@ -1,0 +1,7 @@
+include dash_editor_components/dash_editor_components.min.js
+include dash_editor_components/dash_editor_components.min.js.map
+include dash_editor_components/metadata.json
+include dash_editor_components/package-info.json
+include README.md
+include LICENSE
+include package.json
