@@ -1,6 +1,6 @@
 Package: dashEditorComponents
 Title: Code Editor components for Dash
-Version: 0.0.1
+Version: 0.0.2
 Authors @R: as.person(c(Dawid Kopczyk <dawid.kopczyk@quantee.ai>))
 Description: Code Editor components for Dash
 Depends: R (>= 3.0.2)

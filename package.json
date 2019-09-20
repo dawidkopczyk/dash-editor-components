@@ -1,6 +1,6 @@
 {
   "name": "dash_editor_components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Code Editor components for Dash",
   "main": "build/index.js",
   "scripts": {
